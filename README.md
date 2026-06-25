@@ -52,7 +52,6 @@ The project uses a historical disaster dataset containing information such as:
 disaster-trend-intelligence-chatbot/
 │── disaster_project.ipynb
 │── emdat_dataset_1978to2025.xlsx
-│── requirements.txt
 │── README.md
 
 ## How to Run
